@@ -1,51 +1,143 @@
-﻿# 👋 Hi there, I'm Krishna Singh
+﻿
 
-## 🚀 About Me
-I'm a B.Tech CSE student (2023-2027) passionate about software development and machine learning. Currently exploring the fascinating world of AI and web development while building a strong foundation in computer science fundamentals.
 
-## 🎓 Education
-- B.Tech in Computer Science and Engineering (2023-2027)
-- Currently learning Machine Learning and Web Development
+<div align="center">
+  
+  <!-- Animated headline -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Krishna+Singh+%F0%9F%91%8B;+Developer+%7C+Backend+%7C+ML;Building+scalable+and+data-driven+systems" alt="Typing SVG" />
+</p>
 
-## 💻 Tech Stack
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+  <!-- Short professional intro -->
+  <p align="center">
+    Passionate <b>Software Developer</b> crafting solutions using <b>Backend, DevOps, ML and Web technologies</b> since <b>2023</b>.<br/>
+    I care about <b>clean architecture, performance, developer experience</b> and solving <b>real-world problems</b>.
+  </p>
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishna-singh18&show_icons=true&theme=radical)
+  <!-- Quick info badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20ML%20%7C%20DevOps%20%7C%20Systems-blueviolet?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge" />
+  </p>
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Krishna-singh18&theme=radical)
-
-## 🚀 Featured Projects
-- [Fitness Tracking and Workout Planner](https://github.com/Krishna-singh18/FITNESS-TRACKING-AND-WORKOUT-PLANNER-WEBSITE) - A comprehensive web application for fitness tracking and workout planning
-- [Math Solver AI](https://github.com/Krishna-singh18/mathsolver-ai) - A modern AI-powered math solver application
-
-## 📚 Currently Learning
-- Machine Learning concepts and implementations
-- Advanced JavaScript and Web Development
-- Computer Networks
-- Data Structures and Algorithms
-
-## 🎯 Projects & Interests
-- Web Development (HTML, CSS, JavaScript)
-- Machine Learning applications
-- Software Development in C/C++/Java
-- Computer Networks
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-singh18/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krishna-singh18)
-
-## ⚡ Fun Fact
-I can solve complex coding problems while listening to my favorite music - it's like having a personal coding soundtrack! 🎵💻
+</div>
 
 ---
 
-⭐️ From Krishna Singh
+<div align="center">
+
+  <!-- Tech stack icons -->
+ <h2>🧰 Tech Stack & Tools</h2>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,react,nodejs,express,flask,html,css,tailwind,mysql,postgresql,mongodb,redis,git,github,postman,figma,vercel,linux,docker,maven,opencv,sklearn,tensorflow&perline=8" />
+  <!-- Currently working on / learning -->
+  <p>
+    🔭 Currently building: <b>production-grade applications</b> with ML + DevOps + Web<br/>
+    🌱 Learning deeper: <b>C++, DSA, system design & scalable backend patterns</b><br/>
+    💬 Ask me about: <b>APIs, backend systems, data modelling, automation, ML integrations</b><br/>
+    ⚡ Fun fact: <i>I enjoy debugging complex systems almost as much as building them</i> 🐛
+  </p>
+
+</div>
+
+---
+
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Current streak, longest streak & total contributions -->
+  <img
+    width="500"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna-singh18&theme=radical&hide_border=false"
+    alt="GitHub contribution streak (current & longest streak, total contributions)"
+  />
+
+  <br/>
+
+
+
+  <!-- Overall GitHub stats -->
+ <img
+  width="390"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Krishna-singh18&show_icons=true&theme=dark&bg_color=0d1117&title_color=ff4d8d&icon_color=ff4d8d&text_color=f5f5f5&border_color=30363d"
+  alt="GitHub stats"
+/>
+</div>
+
+<br/>
+
+
+<div align="center">
+  <!-- Most used languages -->
+  <img
+  width="390"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Krishna-singh18&hide=HTML&langs_count=10&layout=compact&bg_color=0d1117&title_color=ff4d8d&text_color=ffffff&border_color=30363d&border_radius=10"
+  alt="Most used languages"
+/>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Year‑wise contribution details + activity timeline -->
+  <img
+  width="500"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishna-singh18&theme=tokyonight"
+/>
+</div>
+
+
+
+
+
+
+
+<!-- 
+<br/> -->
+
+<!-- <div align="center">
+  <!-- GitHub activity graph -->
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna-singh18&theme=react-dark&hide_border=false&area=true" alt="GitHub activity graph" /> -->
+<!-- </div> --> 
+
+<br/>
+<br/>
+
+---
+
+
+
+
+
+<!-- --- -->
+
+
+
+
+<br/>
+
+<div align="center">
+  
+  ### 🤝 Let's Connect
+  <br/>
+
+  <a href="https://krishnasingh18.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-krishnasingh18.vercel.app-ff4d8d?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <a href="mailto:kishanbaish@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kishanbaish%40gmail.com-ff4d8d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/krishna-singh18">
+    <img src="https://img.shields.io/badge/LinkedIn-krishna--singh18-ff4d8d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+</div>
+
+
+
