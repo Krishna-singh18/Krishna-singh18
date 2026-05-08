@@ -126,15 +126,15 @@
   <br/>
 
   <a href="https://krishnasingh18.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-krishnasingh18.vercel.app-ff4d8d?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-krishnasingh18.vercel.app-36BCF7?style=for-the-badge&logo=vercel&logoColor=white&perline=1" alt="Portfolio" />
   </a>
 
   <a href="mailto:kishanbaish@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kishanbaish%40gmail.com-ff4d8d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-kishanbaish%40gmail.com-36BCF7?style=for-the-badge&logo=gmail&logoColor=white&perline=1" alt="Email" />
   </a>
 
   <a href="https://www.linkedin.com/in/krishna-singh18">
-    <img src="https://img.shields.io/badge/LinkedIn-krishna--singh18-ff4d8d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-krishna--singh18-36BCF7?style=for-the-badge&logo=linkedin&logoColor=white&perline=1" alt="LinkedIn" />
   </a>
 
 </div>
